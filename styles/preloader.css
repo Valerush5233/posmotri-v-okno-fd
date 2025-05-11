@@ -4,7 +4,8 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  background: #545050;
+  background-color: rgba(27, 25, 25, 0.8);
+  z-index: 10;
 }
 
 .preloader-chasing-squares {
