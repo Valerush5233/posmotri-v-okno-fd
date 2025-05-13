@@ -4,7 +4,8 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: rgba(27, 25, 25, 0.8);
+  background: #545050;
+  
   z-index: 10;
 }
 
